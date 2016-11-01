@@ -1,0 +1,20 @@
+body {
+    background-color: #f2f2f2;
+}
+.buttons {
+    margin: 1%;
+}
+.state, #addState {
+    background-color: #5e969d;
+    border-radius: 5px;
+    color: white;
+    margin: 1%;
+}
+.state-span {
+    display: inline-block;
+    position: relative;
+    margin: 1%;
+}
+#state-input {
+    border-radius: 5px;
+}
