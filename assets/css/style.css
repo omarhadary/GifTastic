@@ -4,7 +4,7 @@ body {
 .buttons {
     margin: 1%;
 }
-.state, #addState {
+.state, #add-state {
     background-color: #5e969d;
     border-radius: 5px;
     color: white;
@@ -17,4 +17,8 @@ body {
 }
 #state-input {
     border-radius: 5px;
+}
+.rating-style {
+    font-weight: bold;
+    margin: 1% 0 0 0;
 }
