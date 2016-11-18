@@ -22,6 +22,7 @@
                 method: "GET"
             }).done(function(response) {
                 var results = response.data;
+            console.log(results);
                 for (var j = 0; j < results.length; j++) {
                     var stateSpan = $("<span class='state-span'>");
                     var stateGif = $("<img>");
